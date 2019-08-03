@@ -1,0 +1,5 @@
+20:10:52.755 [main] INFO  practise.AppiumTest - i am showing info message
+20:10:52.767 [main] WARN  practise.AppiumTest - i am showing warning
+20:10:52.768 [main] DEBUG practise.AppiumTest - i am showing debugging msg
+20:10:52.768 [main] FATAL practise.AppiumTest - i am showing fatal error
+20:10:52.768 [main] ERROR practise.AppiumTest - i am showing error

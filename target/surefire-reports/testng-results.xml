@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="183" started-at="2019-07-17T14:26:36Z" finished-at="2019-07-17T14:26:36Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="183" started-at="2019-07-17T14:26:36Z" finished-at="2019-07-17T14:26:36Z">
+      <class name="practise.AppiumTest">
+        <test-method status="PASS" signature="run()[pri:0, instance:practise.AppiumTest@6e6d5e]" name="run" duration-ms="1" started-at="2019-07-17T14:26:36Z" finished-at="2019-07-17T14:26:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- run -->
+      </class> <!-- practise.AppiumTest -->
+      <class name="practise.RestApiTest">
+        <test-method status="PASS" signature="run()[pri:0, instance:practise.RestApiTest@cf57e3]" name="run" duration-ms="1" started-at="2019-07-17T14:26:36Z" finished-at="2019-07-17T14:26:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- run -->
+      </class> <!-- practise.RestApiTest -->
+      <class name="practise.SeleniumTest">
+        <test-method status="PASS" signature="run()[pri:0, instance:practise.SeleniumTest@12cbfa]" name="run" duration-ms="45" started-at="2019-07-17T14:26:36Z" finished-at="2019-07-17T14:26:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- run -->
+      </class> <!-- practise.SeleniumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
